@@ -50,3 +50,5 @@ Execute os comandos Terraform:
 terraform init
 terraform plan
 terraform apply
+
+Este projeto foi originalmente desenvolvido por Kledson Hugo, professor do curso. As melhorias de modularização e organização foram feitas por Gabriel Lamata com o intuito de consolidar os aprendizados em infraestrutura como código.
