@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "kledson-basso-002"
+  default = "meu-bucket-terradorm-2025"
 }
 
 variable "website_endpoint" {
