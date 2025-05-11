@@ -7,6 +7,8 @@ Este projeto tem como objetivo provisionar e configurar, via Terraform, um bucke
 
 O Amazon S3 é amplamente utilizado para hospedagem de sites estáticos, oferecendo escalabilidade, alta disponibilidade e baixo custo.
 
+Este projeto foi originalmente desenvolvido por Kledson Hugo, professor do curso. As melhorias de modularização e organização foram feitas por Gabriel Lamata com o intuito de consolidar os aprendizados em infraestrutura como código.
+
 > ✅ Projeto desenvolvido com base nas orientações e aulas práticas do professor **Kledson Hugo**, com ajustes e testes realizados por **Gabriel Lamata**.
 
 ---
@@ -50,5 +52,3 @@ Execute os comandos Terraform:
 terraform init
 terraform plan
 terraform apply
-
-Este projeto foi originalmente desenvolvido por Kledson Hugo, professor do curso. As melhorias de modularização e organização foram feitas por Gabriel Lamata com o intuito de consolidar os aprendizados em infraestrutura como código.
