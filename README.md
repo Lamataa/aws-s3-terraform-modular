@@ -32,14 +32,13 @@ Este projeto realiza o provisionamento de uma infraestrutura básica na AWS util
 ├── variables.tf
 ├── outputs.tf
 ├── modules/
-│   ├── network/
-│   │   ├── vpc.tf
-│   │   ├── subnet.tf
-│   │   ├── internet_gateway.tf
-│   │   └── route_table.tf
-│   └── compute/
-│       ├── ec2.tf
-│       └── security_group.tf
+│   └── vpc/
+│       ├── vpc.tf
+│       ├── subnet.tf
+│       ├── internet_gateway.tf
+│       ├── route_table.tf
+│       ├── security_group.tf
+│       └── ec2.tf
 
 ```
 
