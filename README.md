@@ -14,7 +14,7 @@ O Amazon S3 é amplamente utilizado para hospedagem de sites estáticos, oferece
 ## 🧱 Estrutura Modular
 
 - **/modules/s3**: Contém o módulo reutilizável responsável por criar o bucket, configurar versionamento e permissões.
-- **/app-staticsite-storage-aws**: Contém a infraestrutura principal que chama o módulo S3 e faz o provisionamento do bucket com as configurações desejadas.
+- **/aws-s3-terraform-modular**: Contém a infraestrutura principal que chama o módulo S3 e faz o provisionamento do bucket com as configurações desejadas.
 
 ---
 
